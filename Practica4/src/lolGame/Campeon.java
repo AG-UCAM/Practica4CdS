@@ -11,7 +11,7 @@ public class Campeon {
 	private int defensa;
 	private Hashtable<Integer,Habilidad> habilidades;
 	
-	//Clase campeo
+	//Clase campe
 	public Campeon(String nombre, String rol, int puntos_vida, int dano_ataque, int defensa) {
 		this.nombre = nombre;
 		this.rol = rol;
